@@ -1,0 +1,152 @@
+[
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "work independently",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "collaborate with others",
+        "key": "B"
+      }
+    ],
+    "title": "I prefer to ..."
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "like having a clear plan",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "prefer to improvise",
+        "key": "B"
+      }
+    ],
+    "title": "When arranging activities, I ..."
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "Rules should be strictly followed",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "Rules should be flexibly applied",
+        "key": "B"
+      }
+    ],
+    "title": "How do you think of rules?"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "often the one talking",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "more inclined to listen",
+        "key": "B"
+      }
+    ],
+    "title": "In social situations, I am ..."
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "research before acting",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "learn as I go",
+        "key": "B"
+      }
+    ],
+    "title": "When facing new challenges, I will ..."
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "details and facts",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "concepts and imagination",
+        "key": "B"
+      }
+    ],
+    "title": "In daily life, I usually focus on ..."
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "logical analysis",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "personal feelings",
+        "key": "B"
+      }
+    ],
+    "title": "I make decisions based on ..."
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "structure and routine",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "freedom and flexibility",
+        "key": "B"
+      }
+    ],
+    "title": "For daily schedules, I like ..."
+  },
+  {
+    "options": [
+      {
+        "result": "P",
+        "value": "possibilities",
+        "key": "A"
+      },
+      {
+        "result": "J",
+        "value": "consequences",
+        "key": "B"
+      }
+    ],
+    "title": "When encountering problems, I first consider ..."
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "Time is a valuable resource",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "Time is a relatively flexible concept",
+        "key": "B"
+      }
+    ],
+    "title": "How do you view time? "
+  }
+]
